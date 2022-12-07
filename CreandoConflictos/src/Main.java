@@ -18,5 +18,14 @@ public class Main {
         else{
             JOptionPane.showMessageDialog(null,"Eres mala persona por no hacer lo que he dicho");
         }
+
+        // cambio de mi colaboracion a las 14:20
+
+        if (num == 1) {
+            System.out.println("Te quiero");
+        }
+        else {
+            System.out.println("hueles mal");
+        }
     }
 }
